@@ -1,0 +1,6 @@
+{
+  "name": "WorkTrack HR - Employee Attendance & Shift Management",
+  "description": "Smart Attendance and Workforce Management System with role-based Employer and Employee portals, real-time clock, shift scheduling, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
